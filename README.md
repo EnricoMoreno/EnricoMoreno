@@ -6,25 +6,26 @@ Cybersecurity Undergraduate and Bachelor's degree holder from Full Sail Universi
 
 ### 🛡️ Technical Certifications & Education
 
-* [cite_start]**eJPT®** (Junior Penetration Tester) - [Completed] [cite: 13, 24]
-* [cite_start]**NPP** (Novo Pentest Profissional) - **DESEC Security** [In Progress] [cite: 16, 25]
-* [cite_start]**DCPT & Security+** [In Preparation] [cite: 26]
-* [cite_start]**B.S. in Game and Interactive Media Design** - Full Sail University [cite: 60]
-* [cite_start]**B.T. in Cybersecurity** - UNICID [cite: 62]
+* **eJPT®** (Junior Penetration Tester) - [Completed]
+* **NPP** (Novo Pentest Profissional) - **DESEC Security** [In Progress]
+* **DCPT & Security+** [In Preparation]
+* **B.S. in Game and Interactive Media Design** - Full Sail University
+* **B.T. in Cybersecurity** - UNICID
 
 ### ⚔️ Offensive Security Experience
 
-* [cite_start]**Bug Hunting:** Identifying and reporting critical vulnerabilities in Web, Mobile, and APIs via **HuntersPay** [cite: 20, 29, 32]
-* [cite_start]**Red Teaming:** Hands-on labs and technical write-ups focused on exploitation and post-exploitation, including **Active Directory** [cite: 21]
-* [cite_start]**Documentation:** Expert in writing detailed vulnerability and remediation reports [cite: 22, 34]
-* [cite_start]**Software Development:** Strong logic in **Python and C++** for security automation and tool development [cite: 45, 49]
+* **Bug Hunting:** Identifying and reporting critical vulnerabilities in Web, Mobile, and APIs
+* **Red Teaming:** Hands-on labs and technical write-ups focused on exploitation and post-exploitation, including **Active Directory**
+* **Documentation:** Expert in writing detailed vulnerability and remediation reports
+* **Software Development:** Strong logic in **Python, C and C++** for security automation and tool development
 
 ### 🛠️ Tech Stack & Tools
 
-* [cite_start]**Focus:** Web/API Pentesting [cite: 33][cite_start], Active Directory [cite: 21][cite_start], and Network Security [cite: 18]
-* [cite_start]**Methodologies:** **OWASP Top 10** [cite: 33] [cite_start]and rigorous offensive frameworks [cite: 27]
-* [cite_start]**Languages:** Native/Bilingual English and Portuguese [cite: 11]
+* **Focus:** Web/API Pentesting, Active Directory, and Network Security
+* **Methodologies:** **OWASP Top 10** and rigorous offensive frameworks
+* **Languages:** Native/Bilingual English and Portuguese
 
 ---
 
-[cite_start]📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/enrico-moreno)
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-moreno)
