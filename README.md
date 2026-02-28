@@ -8,7 +8,8 @@ Cybersecurity Undergraduate and Bachelor's degree holder from Full Sail Universi
 
 * **eJPT®** (Junior Penetration Tester) - [Completed]
 * **NPP** (Novo Pentest Profissional) - **DESEC Security** [In Progress]
-* **DCPT & Security+** [In Preparation]
+* **DCPT** [In Preparation]
+  
 * **B.S. in Game and Interactive Media Design** - Full Sail University
 * **B.T. in Cybersecurity** - UNICID
 
