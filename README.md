@@ -24,7 +24,7 @@ Cybersecurity Undergraduate and Bachelor's degree holder from Full Sail Universi
 
 * **Focus:** Web/API Pentesting, Active Directory, and Network Security
 * **Methodologies:** **OWASP Top 10** and rigorous offensive frameworks
-* **Languages:** Native/Bilingual English and Portuguese
+* **Languages:** Native/Bilingual Portuguese and English
 
 ---
 
