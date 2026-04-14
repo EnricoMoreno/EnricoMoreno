@@ -28,7 +28,7 @@ Focused on **Active Directory** security and the following certifications for 20
 ### Offensive Labs & Bug Bounty
 **Handle**: `T1aM4T`
 
-* **TryHackMe**: [Profile Link](https://tryhackme.com/p/T1aM4T)
+* **TryHackMe**: [Profile Link](https://tryhackme.com/p/T1aM4t)
 
 ---
 
