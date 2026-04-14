@@ -1,32 +1,47 @@
-# Enrico Moreno | Pentester & eJPT® Certified
+                                                                
+                                                                
+MMP""MM""YMM               `7MMM.     ,MMF'        MMP""MM""YMM 
+P'   MM   `7 __,             MMMb    dPMM          P'   MM   `7 
+     MM     `7MM   ,6"Yb.    M YM   ,M MM       ,AM     MM      
+     MM       MM  8)   MM    M  Mb  M' MM      AVMM     MM      
+     MM       MM   ,pm9MM    M  YM.P'  MM    ,W' MM     MM      
+     MM       MM  8M   MM    M  `YM'   MM  ,W'   MM     MM      
+   .JMML.   .JMML.`Moo9^Yo..JML. `'  .JMML.AmmmmmMMmm .JMML.    
+                                                 MM             
+                                                 MM             
 
-Cybersecurity Undergraduate and Bachelor's degree holder from Full Sail University. Offensive Security Specialist focused on penetration testing, vulnerability analysis, and network security.
+
+### About Me
+**Offensive Security Researcher**
+Focus: Penetration Testing & Red Teaming.
+Certified **eJPT (Junior Penetration Tester)**.
+
+I am currently pursuing an **Associate Degree in Cybersecurity** at UNICID (Expected Dec/2026).
+
+### Technical Roadmap
+Focused on **Active Directory** security and the following certifications for 2026:
+* **AD-RTS** (Active Directory Red Team Scientist)
+* **DCPT** (Desec Certified Penetration Tester)
+
+### Services
+
+* **Pentest (Web & Infrastructure)**: Security assessments based on **PTES** for execution and **NIST SP 800-115** for reporting.
+* **Red Teaming**: Adversarial simulations focused on **Active Directory** and lateral movement, mapped via **MITRE ATT&CK®**.
+* **OSINT & Recon**: Asset discovery and information gathering to support offensive operations.
+
+### Contact & Security
+
+* **Email**: [enrico@enricomoreno.com.br](mailto:enrico@enricomoreno.com.br)
+* **PGP Public Key**: [Download Key](https://enricomoreno.com.br/pgp.txt)
+* **Fingerprint**: `22F5 E4C3 C63E D8E9 05B6 6FF6 156D 9430 62FE 0A3C`
+* **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
+* **GitHub**: [github.com/EnricoMoreno](https://github.com/EnricoMoreno)
+
+### Offensive Labs & Bug Bounty
+**Handle**: `T1aM4T`
+
+* **TryHackMe**: [Profile Link](https://tryhackme.com/p/T1aM4T)
 
 ---
 
-### 🛡️ Technical Certifications & Education
-
-* **eJPT®** (Junior Penetration Tester) - [Completed]
-* **NPP** (Novo Pentest Profissional) - **DESEC Security** [In Progress]
-* **DCPT** [In Preparation]
-  
-* **B.S. in Game and Interactive Media Design** - Full Sail University
-* **B.T. in Cybersecurity** - UNICID
-
-### ⚔️ Offensive Security Experience
-
-* **Bug Hunting:** Identifying and reporting critical vulnerabilities in Web, Mobile, and APIs
-* **Red Teaming:** Hands-on labs and technical write-ups focused on exploitation and post-exploitation, including **Active Directory**
-* **Documentation:** Expert in writing detailed vulnerability and remediation reports
-* **Software Development:** Strong logic in **Python, C and C++** for security automation and tool development
-
-### 🛠️ Tech Stack & Tools
-
-* **Focus:** Web/API Pentesting, Active Directory, and Network Security
-* **Methodologies:** **OWASP Top 10** and rigorous offensive frameworks
-* **Languages:** Native/Bilingual Portuguese and English
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-moreno)
+**Security Disclosure**: This domain implements the `security.txt` standard (RFC 9116). See [/.well-known/security.txt](https://enricomoreno.com.br/.well-known/security.txt).
