@@ -21,6 +21,7 @@ Focused on Active Directory enterprise security, Web Application Testing, and th
 * **PGP Public Key**: [Download Key](https://enricomoreno.com.br/pgp.txt)
 * **Fingerprint**: `22F5 E4C3 C63E D8E9 05B6 6FF6 156D 9430 62FE 0A3C`
 * **LinkedIn**: [linkedin.com/in/enricomoreno](https://linkedin.com/in/enricomoreno)
+* **Website**: [Personal Website](https://enricomoreno.com.br/en/)
 
 ### Offensive Labs & Bug Bounty
 **Handle**: `T1aM4T`
