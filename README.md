@@ -6,16 +6,14 @@ Certified **eJPT (Junior Penetration Tester)**.
 
 I am currently pursuing an **Associate Degree in Cybersecurity** at UNICID (Expected Dec/2026).
 
-### Technical Roadmap
-Focused on **Active Directory** security and the following certifications for 2026:
-* **AD-RTS** (Active Directory Red Team Scientist)
-* **DCPT** (Desec Certified Penetration Tester)
+## Technical Roadmap
+Focused on Active Directory enterprise security, Web Application Testing, and the following certifications:
+* DCPT (Desec Certified Penetration Tester)
+* AD-RTS (CyberWarFare Labs - Active Directory Red Team Scientist)
 
-### Services
-
-* **Pentest (Web & Infrastructure)**: Security assessments based on **PTES** for execution and **NIST SP 800-115** for reporting.
-* **Red Teaming**: Adversarial simulations focused on **Active Directory** and lateral movement, mapped via **MITRE ATT&CK®**.
-* **OSINT & Recon**: Asset discovery and information gathering to support offensive operations.
+## Services & Capabilities
+* **Pentest (Web & Infrastructure):** Security assessments based on PTES for execution and NIST SP 800-115 for reporting.
+* **Vulnerability Management:** Assessment, manual validation, and remediation of security flaws mapped via OWASP Top 10 and MITRE ATT&CK® frameworks.
 
 ### Contact & Security
 
